@@ -1,4 +1,8 @@
 # time-tracker
-Java (Maven) application for tracking time on the job
+Java (Maven) ap
+
+## Purpose
+
+This is a demo repository.
 
 Time tracker
